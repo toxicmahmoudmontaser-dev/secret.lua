@@ -1,6 +1,8 @@
 local Games = {
     {name = "Muscle Legends",        placeId = 3623096087, url = "https://raw.githubusercontent.com/toxicmahmoudmontaser-dev/secret.lua/refs/heads/main/muscle%20legends.txt"},
     {name = "Legends of Speed",      placeId = 3101667897, url = "https://raw.githubusercontent.com/toxicmahmoudmontaser-dev/secret.lua/refs/heads/main/los.txt"},
+    {name = "Legends of Speed (Desert)", placeId = 3276265788, url = "https://raw.githubusercontent.com/toxicmahmoudmontaser-dev/secret.lua/refs/heads/main/los.txt"},
+    {name = "Legends of Speed (Space)",  placeId = 3232996272, url = "https://raw.githubusercontent.com/toxicmahmoudmontaser-dev/secret.lua/refs/heads/main/los.txt"},
     {name = "Hyper Speed Runner",    placeId = 88933961678687, url = "https://raw.githubusercontent.com/toxicmahmoudmontaser-dev/secret.lua/refs/heads/main/Hyper%20speed%20runner.lua"},
     {name = "Flick",                 placeId = 136801880565837, url = "https://raw.githubusercontent.com/toxicmahmoudmontaser-dev/secret.lua/refs/heads/main/flick"},
     {name = "Arsenal",               placeId = 286090429, url = "https://raw.githubusercontent.com/toxicmahmoudmontaser-dev/secret.lua/refs/heads/main/Arsenal.lua"},
